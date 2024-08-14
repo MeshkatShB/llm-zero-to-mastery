@@ -33,7 +33,7 @@ def generate_response_with_ollama(context, query):
     """
     # Use Ollama's CLI to generate the response
     result = subprocess.run(
-        ["ollama", "generate", "--prompt", prompt, "llama2"],  # Replace 'llama2' with the model you've set up
+        ["ollama", "generate", "--prompt", prompt, "llama3.1:latest"],
         capture_output=True,
         text=True
     )

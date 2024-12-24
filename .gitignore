@@ -3,3 +3,4 @@
 config.json
 models_cache/
 gpt2_finetuned/
+data/cached*

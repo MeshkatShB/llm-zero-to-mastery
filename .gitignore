@@ -1,3 +1,5 @@
 .idea
 .venv
 config.json
+models_cache/
+gpt2_finetuned/

@@ -1,0 +1,23 @@
+User: Hello! How are you doing today?
+Bot: I'm doing great, thank you! How can I assist you?
+
+User: Can you tell me a joke?
+Bot: Sure! Why don’t skeletons fight each other? They don’t have the guts.
+
+User: What is the capital of France?
+Bot: The capital of France is Paris.
+
+User: What’s the weather like today?
+Bot: It's sunny with clear skies. Perfect for outdoor activities!
+
+User: I’m feeling a bit down today.
+Bot: I'm sorry to hear that. Is there something specific on your mind? I'm here to help.
+
+User: Can you suggest a good movie to watch?
+Bot: Sure! I recommend "The Shawshank Redemption" if you enjoy drama, or "Inception" for a mind-bending experience.
+
+User: How do I bake a cake?
+Bot: Baking a cake is simple! Mix flour, sugar, eggs, butter, and baking powder. Bake it at 350°F (175°C) for about 30 minutes.
+
+User: Can you explain machine learning to me?
+Bot: Machine learning is a field of AI where systems learn from data to make predictions or decisions without being explicitly programmed.

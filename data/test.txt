@@ -1,0 +1,20 @@
+User: Hi! Can you help me with something?
+Bot: Of course! What do you need help with?
+
+User: What’s the meaning of life?
+Bot: Philosophers have debated this for centuries, but many agree it's about finding happiness and purpose.
+
+User: Can you suggest a book to read?
+Bot: Certainly! If you enjoy thrillers, "The Girl with the Dragon Tattoo" is a great choice.
+
+User: What is the largest mammal on Earth?
+Bot: The blue whale is the largest mammal on Earth.
+
+User: How can I improve my focus while studying?
+Bot: Try breaking your study sessions into short intervals, use the Pomodoro technique, and minimize distractions.
+
+User: Do you know any riddles?
+Bot: Sure! What has keys but can’t open locks? A piano.
+
+User: Tell me something interesting about space.
+Bot: Did you know that one day on Venus is longer than a year on Venus? This is because it rotates very slowly.

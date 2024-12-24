@@ -23,7 +23,7 @@ In this part, I implemented a simple local-rag which will get the data from the 
     - The `generate_response_with_ollama()` function is called with the context (joined retrieved documents) and the user's query as arguments. This function generates a response using the OpenAI's Ollama model.
     - The generated response is printed to the console.
 
-### 2. fine-tuning gpt2
+### 2. fine-tuning gpt2 [`fine-tuning.ipynb`]
 
 - **Imports**  
    Libraries required for fine-tuning `GPT-2`.

@@ -2,7 +2,7 @@
 
 ## About
 
-In this repo...
+This repository serves as a comprehensive guide to mastering large language models (LLMs) through hands-on projects. It includes implementations of various concepts and techniques related to LLMs, such as Retrieval-Augmented Generation (RAG) and fine-tuning GPT models. Each part is well-structured, providing clear steps and practical examples to help you learn and apply LLM techniques effectively.
 
 ## Structure
 

@@ -1,0 +1,52 @@
+[
+  {
+    "instruction": "Translate to French",
+    "input": "Hello, how are you?",
+    "output": "Bonjour, comment ça va?"
+  },
+  {
+    "instruction": "Summarize the text",
+    "input": "Large Language Models (LLMs) are a subset of AI models trained on vast amounts of text data. They are designed to understand and generate human-like text.",
+    "output": "LLMs are AI models trained to understand and generate human-like text."
+  },
+  {
+    "instruction": "Answer the question",
+    "input": "What is the capital of France?",
+    "output": "The capital of France is Paris."
+  },
+  {
+    "instruction": "Provide a synonym for the word",
+    "input": "happy",
+    "output": "joyful"
+  },
+  {
+    "instruction": "Write a Python function to calculate the factorial of a number",
+    "input": "",
+    "output": "def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)"
+  },
+  {
+    "instruction": "Generate a creative story",
+    "input": "A robot discovers it can dream.",
+    "output": "Once upon a time, in a bustling metropolis, a robot named Aiden discovered something extraordinary—it could dream. Every night, Aiden saw colors, landscapes, and adventures it had never experienced before. These dreams sparked a quest to understand what it meant to be alive."
+  },
+  {
+    "instruction": "Translate to Spanish",
+    "input": "Good morning, have a great day!",
+    "output": "¡Buenos días, que tengas un gran día!"
+  },
+  {
+    "instruction": "Explain the concept in simple terms",
+    "input": "What is machine learning?",
+    "output": "Machine learning is a way for computers to learn from data and make decisions or predictions without being explicitly programmed."
+  },
+  {
+    "instruction": "Rephrase the sentence",
+    "input": "The quick brown fox jumps over the lazy dog.",
+    "output": "A speedy brown fox leaps over a sluggish dog."
+  },
+  {
+    "instruction": "List three benefits of exercise",
+    "input": "",
+    "output": "1. Improves physical health\n2. Enhances mental well-being\n3. Boosts energy levels"
+  }
+]

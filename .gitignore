@@ -5,3 +5,5 @@ models_cache/
 gpt2_finetuned/
 data/cached*
 instruction_tuning_model/
+ideas.*
+~$ideas.*

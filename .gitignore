@@ -7,3 +7,4 @@ data/cached*
 instruction_tuning_model/
 ideas.*
 ~$ideas.*
+lib/
